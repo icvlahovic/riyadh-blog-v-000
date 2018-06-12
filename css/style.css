@@ -34,10 +34,9 @@ h1 {
   margin-bottom: 0;
 }
 
-#content > h2 {
+h2 {
   font-size: 1.5em;
   margin-top: .5em;
-  color: black;
 }
 
 h3 {
